@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Propia-Historia/static/css/main.31acd09d.css",
+    "main.js": "/Propia-Historia/static/js/main.452baafc.js",
+    "index.html": "/Propia-Historia/index.html",
+    "main.31acd09d.css.map": "/Propia-Historia/static/css/main.31acd09d.css.map",
+    "main.452baafc.js.map": "/Propia-Historia/static/js/main.452baafc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31acd09d.css",
+    "static/js/main.452baafc.js"
+  ]
+}
